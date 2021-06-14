@@ -26,7 +26,7 @@
     "react-scripts": "^3.4.4",
     "react-switch": "^5.0.1",
     "react-webcam": "^1.1.1",
-    "webp-converter": "^2.2.3"
+    "webp-converter": "^2.2.3",
     "webpack-dev-middleware": "^2.0.4",
     "webpack-hot-middleware": "^2.18.0",
     "webpack-middleware": "^1.5.1"
